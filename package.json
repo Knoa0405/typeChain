@@ -1,0 +1,23 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knoa0405/typeChain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Knoa0405/typeChain/issues"
+  },
+  "homepage": "https://github.com/Knoa0405/typeChain#readme",
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
+}
